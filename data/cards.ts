@@ -32,6 +32,3006 @@ export const cardsData: TabooCardData[] = [
     ]
   },
   {
+    "palavra": "Celular",
+    "restricoes": [
+      "Ligar",
+      "Internet",
+      "Mensagem",
+      "Tela",
+      "Bateria"
+    ]
+  },
+  {
+    "palavra": "Amor",
+    "restricoes": [
+      "Sentimento",
+      "Coração",
+      "Namorados",
+      "Paixão",
+      "Gostar"
+    ]
+  },
+  {
+    "palavra": "Dinheiro",
+    "restricoes": [
+      "Pagar",
+      "Moeda",
+      "Nota",
+      "Banco",
+      "Comprar"
+    ]
+  },
+  {
+    "palavra": "Escola",
+    "restricoes": [
+      "Professor",
+      "Aluno",
+      "Estudar",
+      "Aula",
+      "Caderno"
+    ]
+  },
+  {
+    "palavra": "Café",
+    "restricoes": [
+      "Bebida",
+      "Quente",
+      "Manhã",
+      "Xícara",
+      "Cafeína"
+    ]
+  },
+  {
+    "palavra": "Brasil",
+    "restricoes": [
+      "País",
+      "Samba",
+      "Verde",
+      "Amarelo",
+      "Neymar"
+    ]
+  },
+  {
+    "palavra": "Computador",
+    "restricoes": [
+      "Teclado",
+      "Mouse",
+      "Tela",
+      "Notebook",
+      "Máquina"
+    ]
+  },
+  {
+    "palavra": "Cachorro",
+    "restricoes": [
+      "Latir",
+      "Amigo",
+      "Osso",
+      "Animal",
+      "Pet"
+    ]
+  },
+  {
+    "palavra": "Gato",
+    "restricoes": [
+      "Miau",
+      "Felino",
+      "Leite",
+      "Telhado",
+      "Bigode"
+    ]
+  },
+  {
+    "palavra": "Carro",
+    "restricoes": [
+      "Dirigir",
+      "Roda",
+      "Motor",
+      "Veículo",
+      "Volante"
+    ]
+  },
+  {
+    "palavra": "Livro",
+    "restricoes": [
+      "Ler",
+      "Páginas",
+      "História",
+      "Papel",
+      "Biblioteca"
+    ]
+  },
+  {
+    "palavra": "Música",
+    "restricoes": [
+      "Ouvir",
+      "Cantor",
+      "Som",
+      "Rádio",
+      "Dança"
+    ]
+  },
+  {
+    "palavra": "Filme",
+    "restricoes": [
+      "Cinema",
+      "Pipoca",
+      "Tela",
+      "Ator",
+      "Assistir"
+    ]
+  },
+  {
+    "palavra": "Médico",
+    "restricoes": [
+      "Hospital",
+      "Doente",
+      "Remédio",
+      "Saúde",
+      "Doutor"
+    ]
+  },
+  {
+    "palavra": "Chuva",
+    "restricoes": [
+      "Água",
+      "Céu",
+      "Molhado",
+      "Guarda-chuva",
+      "Nuvem"
+    ]
+  },
+  {
+    "palavra": "Natal",
+    "restricoes": [
+      "Papai Noel",
+      "Presente",
+      "Dezembro",
+      "Árvore",
+      "Neve"
+    ]
+  },
+  {
+    "palavra": "Banana",
+    "restricoes": [
+      "Fruta",
+      "Amarela",
+      "Macaco",
+      "Comer",
+      "Casca"
+    ]
+  },
+  {
+    "palavra": "Avião",
+    "restricoes": [
+      "Voar",
+      "Céu",
+      "Piloto",
+      "Viagem",
+      "Aeroporto"
+    ]
+  },
+  {
+    "palavra": "Cama",
+    "restricoes": [
+      "Dormir",
+      "Colchão",
+      "Travesseiro",
+      "Quarto",
+      "Lençol"
+    ]
+  },
+  {
+    "palavra": "Relógio",
+    "restricoes": [
+      "Hora",
+      "Tempo",
+      "Pulso",
+      "Ponteiro",
+      "Minuto"
+    ]
+  },
+  {
+    "palavra": "Sapato",
+    "restricoes": [
+      "Pé",
+      "Cadarço",
+      "Calçar",
+      "Tênis",
+      "Andar"
+    ]
+  },
+  {
+    "palavra": "Fogo",
+    "restricoes": [
+      "Quente",
+      "Queimar",
+      "Incêndio",
+      "Vermelho",
+      "Bombeiro"
+    ]
+  },
+  {
+    "palavra": "Água",
+    "restricoes": [
+      "Beber",
+      "Líquido",
+      "Sede",
+      "Transparente",
+      "Garrafa"
+    ]
+  },
+  {
+    "palavra": "Espelho",
+    "restricoes": [
+      "Reflexo",
+      "Vidro",
+      "Olhar",
+      "Imagem",
+      "Rosto"
+    ]
+  },
+  {
+    "palavra": "Cadeira",
+    "restricoes": [
+      "Sentar",
+      "Mesa",
+      "Pernas",
+      "Encosto",
+      "Móvel"
+    ]
+  },
+  {
+    "palavra": "Lua",
+    "restricoes": [
+      "Noite",
+      "Céu",
+      "Branca",
+      "Estrela",
+      "Satélite"
+    ]
+  },
+  {
+    "palavra": "Sol",
+    "restricoes": [
+      "Dia",
+      "Quente",
+      "Estrela",
+      "Luz",
+      "Amarelo"
+    ]
+  },
+  {
+    "palavra": "Vento",
+    "restricoes": [
+      "Ar",
+      "Soprar",
+      "Frio",
+      "Brisa",
+      "Furacão"
+    ]
+  },
+  {
+    "palavra": "Sorvete",
+    "restricoes": [
+      "Gelado",
+      "Doce",
+      "Casquinha",
+      "Verão",
+      "Sabor"
+    ]
+  },
+  {
+    "palavra": "Chocolate",
+    "restricoes": [
+      "Cacau",
+      "Doce",
+      "Barra",
+      "Páscoa",
+      "Leite"
+    ]
+  },
+  {
+    "palavra": "Pizza",
+    "restricoes": [
+      "Queijo",
+      "Itália",
+      "Redonda",
+      "Fatia",
+      "Massa"
+    ]
+  },
+  {
+    "palavra": "Hambúrguer",
+    "restricoes": [
+      "Carne",
+      "Pão",
+      "Lanche",
+      "Fast Food",
+      "Queijo"
+    ]
+  },
+  {
+    "palavra": "Televisão",
+    "restricoes": [
+      "Assistir",
+      "Canal",
+      "Controle",
+      "Tela",
+      "Programa"
+    ]
+  },
+  {
+    "palavra": "Caneta",
+    "restricoes": [
+      "Escrever",
+      "Tinta",
+      "Papel",
+      "Azul",
+      "Material"
+    ]
+  },
+  {
+    "palavra": "Violão",
+    "restricoes": [
+      "Cordas",
+      "Música",
+      "Tocar",
+      "Instrumento",
+      "Som"
+    ]
+  },
+  {
+    "palavra": "Janela",
+    "restricoes": [
+      "Vidro",
+      "Abrir",
+      "Vista",
+      "Casa",
+      "Cortina"
+    ]
+  },
+  {
+    "palavra": "Porta",
+    "restricoes": [
+      "Abrir",
+      "Entrar",
+      "Maçaneta",
+      "Sair",
+      "Fechadura"
+    ]
+  },
+  {
+    "palavra": "Chave",
+    "restricoes": [
+      "Abrir",
+      "Fechadura",
+      "Carro",
+      "Casa",
+      "Metal"
+    ]
+  },
+  {
+    "palavra": "Óculos",
+    "restricoes": [
+      "Olhos",
+      "Enxergar",
+      "Lentes",
+      "Rosto",
+      "Grau"
+    ]
+  },
+  {
+    "palavra": "Cabelo",
+    "restricoes": [
+      "Cabeça",
+      "Pente",
+      "Cortar",
+      "Longo",
+      "Fio"
+    ]
+  },
+  {
+    "palavra": "Dente",
+    "restricoes": [
+      "Boca",
+      "Escova",
+      "Dentista",
+      "Sorriso",
+      "Branco"
+    ]
+  },
+  {
+    "palavra": "Mão",
+    "restricoes": [
+      "Dedo",
+      "Pegar",
+      "Braço",
+      "Tocar",
+      "Palma"
+    ]
+  },
+  {
+    "palavra": "Pé",
+    "restricoes": [
+      "Chão",
+      "Sapato",
+      "Andar",
+      "Chulé",
+      "Dedos"
+    ]
+  },
+  {
+    "palavra": "Nariz",
+    "restricoes": [
+      "Cheiro",
+      "Respirar",
+      "Rosto",
+      "Olfato",
+      "Espirro"
+    ]
+  },
+  {
+    "palavra": "Boca",
+    "restricoes": [
+      "Falar",
+      "Comer",
+      "Beijo",
+      "Lábios",
+      "Língua"
+    ]
+  },
+  {
+    "palavra": "Circo",
+    "restricoes": [
+      "Palhaço",
+      "Tenda",
+      "Mágico",
+      "Espetáculo",
+      "Animal"
+    ]
+  },
+  {
+    "palavra": "Fantasma",
+    "restricoes": [
+      "Assustar",
+      "Branco",
+      "Espírito",
+      "Morto",
+      "Medo"
+    ]
+  },
+  {
+    "palavra": "Elefante",
+    "restricoes": [
+      "Tromba",
+      "Grande",
+      "Pesado",
+      "África",
+      "Animal"
+    ]
+  },
+  {
+    "palavra": "Girafa",
+    "restricoes": [
+      "Pescoço",
+      "Alta",
+      "Amarela",
+      "Pintas",
+      "Folhas"
+    ]
+  },
+  {
+    "palavra": "Leão",
+    "restricoes": [
+      "Rei",
+      "Selva",
+      "Juba",
+      "Rugido",
+      "Felino"
+    ]
+  },
+  {
+    "palavra": "Macaco",
+    "restricoes": [
+      "Banana",
+      "Árvore",
+      "Pular",
+      "Primata",
+      "Zoológico"
+    ]
+  },
+  {
+    "palavra": "Cobra",
+    "restricoes": [
+      "Veneno",
+      "Rastejar",
+      "Picada",
+      "Réptil",
+      "Comprida"
+    ]
+  },
+  {
+    "palavra": "Pássaro",
+    "restricoes": [
+      "Voar",
+      "Asas",
+      "Ninho",
+      "Cantar",
+      "Pena"
+    ]
+  },
+  {
+    "palavra": "Peixe",
+    "restricoes": [
+      "Água",
+      "Nadar",
+      "Mar",
+      "Aquário",
+      "Escama"
+    ]
+  },
+  {
+    "palavra": "Tubarão",
+    "restricoes": [
+      "Dentes",
+      "Mar",
+      "Medo",
+      "Barbatana",
+      "Ataque"
+    ]
+  },
+  {
+    "palavra": "Baleia",
+    "restricoes": [
+      "Grande",
+      "Mar",
+      "Mamífero",
+      "Oceano",
+      "Azul"
+    ]
+  },
+  {
+    "palavra": "Formiga",
+    "restricoes": [
+      "Pequena",
+      "Trabalho",
+      "Doce",
+      "Inseto",
+      "Formigueiro"
+    ]
+  },
+  {
+    "palavra": "Abelha",
+    "restricoes": [
+      "Mel",
+      "Ferrão",
+      "Amarela",
+      "Colmeia",
+      "Flor"
+    ]
+  },
+  {
+    "palavra": "Borboleta",
+    "restricoes": [
+      "Voar",
+      "Colorida",
+      "Lagarta",
+      "Jardim",
+      "Transformação"
+    ]
+  },
+  {
+    "palavra": "Aranha",
+    "restricoes": [
+      "Teia",
+      "Oito",
+      "Pernas",
+      "Medo",
+      "Inseto"
+    ]
+  },
+  {
+    "palavra": "Cavalo",
+    "restricoes": [
+      "Galopar",
+      "Montar",
+      "Fazenda",
+      "Crina",
+      "Animal"
+    ]
+  },
+  {
+    "palavra": "Vaca",
+    "restricoes": [
+      "Leite",
+      "Fazenda",
+      "Pasto",
+      "Malhada",
+      "Carne"
+    ]
+  },
+  {
+    "palavra": "Porco",
+    "restricoes": [
+      "Lama",
+      "Rosa",
+      "Bacon",
+      "Fazenda",
+      "Focinho"
+    ]
+  },
+  {
+    "palavra": "Galinha",
+    "restricoes": [
+      "Ovo",
+      "Pena",
+      "Fazenda",
+      "Cantar",
+      "Milho"
+    ]
+  },
+  {
+    "palavra": "Coelho",
+    "restricoes": [
+      "Orelha",
+      "Cenoura",
+      "Pular",
+      "Páscoa",
+      "Dentes"
+    ]
+  },
+  {
+    "palavra": "Tartaruga",
+    "restricoes": [
+      "Devagar",
+      "Casco",
+      "Mar",
+      "Verde",
+      "Lenta"
+    ]
+  },
+  {
+    "palavra": "Sapo",
+    "restricoes": [
+      "Pular",
+      "Verde",
+      "Lagoa",
+      "Príncipe",
+      "Língua"
+    ]
+  },
+  {
+    "palavra": "Árvore",
+    "restricoes": [
+      "Folhas",
+      "Tronco",
+      "Verde",
+      "Natureza",
+      "Sombra"
+    ]
+  },
+  {
+    "palavra": "Flor",
+    "restricoes": [
+      "Jardim",
+      "Cheiro",
+      "Pétala",
+      "Primavera",
+      "Rosa"
+    ]
+  },
+  {
+    "palavra": "Montanha",
+    "restricoes": [
+      "Alta",
+      "Escalar",
+      "Neve",
+      "Pedra",
+      "Subir"
+    ]
+  },
+  {
+    "palavra": "Rio",
+    "restricoes": [
+      "Água",
+      "Correnteza",
+      "Peixe",
+      "Nadar",
+      "Ponte"
+    ]
+  },
+  {
+    "palavra": "Deserto",
+    "restricoes": [
+      "Areia",
+      "Calor",
+      "Seco",
+      "Camelo",
+      "Cacto"
+    ]
+  },
+  {
+    "palavra": "Neve",
+    "restricoes": [
+      "Frio",
+      "Branco",
+      "Gelo",
+      "Inverno",
+      "Boneco"
+    ]
+  },
+  {
+    "palavra": "Vulcão",
+    "restricoes": [
+      "Lava",
+      "Fogo",
+      "Erupção",
+      "Explosão",
+      "Quente"
+    ]
+  },
+  {
+    "palavra": "Ilha",
+    "restricoes": [
+      "Mar",
+      "Terra",
+      "Isolada",
+      "Praia",
+      "Deserta"
+    ]
+  },
+  {
+    "palavra": "Floresta",
+    "restricoes": [
+      "Árvores",
+      "Verde",
+      "Animais",
+      "Selva",
+      "Mata"
+    ]
+  },
+  {
+    "palavra": "Estrela",
+    "restricoes": [
+      "Céu",
+      "Noite",
+      "Brilho",
+      "Luz",
+      "Espaço"
+    ]
+  },
+  {
+    "palavra": "Arroz",
+    "restricoes": [
+      "Branco",
+      "Comida",
+      "Feijão",
+      "Almoço",
+      "Grão"
+    ]
+  },
+  {
+    "palavra": "Feijão",
+    "restricoes": [
+      "Arroz",
+      "Preto",
+      "Caldo",
+      "Comida",
+      "Almoço"
+    ]
+  },
+  {
+    "palavra": "Macarrão",
+    "restricoes": [
+      "Massa",
+      "Itália",
+      "Molho",
+      "Queijo",
+      "Espaguete"
+    ]
+  },
+  {
+    "palavra": "Ovo",
+    "restricoes": [
+      "Galinha",
+      "Frito",
+      "Cozido",
+      "Clara",
+      "Gema"
+    ]
+  },
+  {
+    "palavra": "Pão",
+    "restricoes": [
+      "Padaria",
+      "Manteiga",
+      "Trigo",
+      "Café",
+      "Sanduíche"
+    ]
+  },
+  {
+    "palavra": "Leite",
+    "restricoes": [
+      "Vaca",
+      "Branco",
+      "Bebida",
+      "Cálcio",
+      "Café"
+    ]
+  },
+  {
+    "palavra": "Queijo",
+    "restricoes": [
+      "Rato",
+      "Leite",
+      "Amarelo",
+      "Pizza",
+      "Sanduíche"
+    ]
+  },
+  {
+    "palavra": "Bolo",
+    "restricoes": [
+      "Aniversário",
+      "Doce",
+      "Vela",
+      "Festa",
+      "Assar"
+    ]
+  },
+  {
+    "palavra": "Brigadeiro",
+    "restricoes": [
+      "Chocolate",
+      "Festa",
+      "Doce",
+      "Brasil",
+      "Granulado"
+    ]
+  },
+  {
+    "palavra": "Pipoca",
+    "restricoes": [
+      "Cinema",
+      "Milho",
+      "Microondas",
+      "Manteiga",
+      "Salgada"
+    ]
+  },
+  {
+    "palavra": "Batata",
+    "restricoes": [
+      "Frita",
+      "Purê",
+      "Comer",
+      "Legume",
+      "Fritura"
+    ]
+  },
+  {
+    "palavra": "Sopa",
+    "restricoes": [
+      "Quente",
+      "Colher",
+      "Legumes",
+      "Caldo",
+      "Jantar"
+    ]
+  },
+  {
+    "palavra": "Salada",
+    "restricoes": [
+      "Verde",
+      "Alface",
+      "Tomate",
+      "Saudável",
+      "Comer"
+    ]
+  },
+  {
+    "palavra": "Frango",
+    "restricoes": [
+      "Ave",
+      "Carne",
+      "Assado",
+      "Frito",
+      "Comer"
+    ]
+  },
+  {
+    "palavra": "Churrasco",
+    "restricoes": [
+      "Carne",
+      "Fogo",
+      "Brasa",
+      "Domingo",
+      "Espeto"
+    ]
+  },
+  {
+    "palavra": "Uva",
+    "restricoes": [
+      "Vinho",
+      "Roxa",
+      "Verde",
+      "Cacho",
+      "Fruta"
+    ]
+  },
+  {
+    "palavra": "Maçã",
+    "restricoes": [
+      "Vermelha",
+      "Branca de Neve",
+      "Fruta",
+      "Mordida",
+      "Torta"
+    ]
+  },
+  {
+    "palavra": "Laranja",
+    "restricoes": [
+      "Suco",
+      "Cor",
+      "Fruta",
+      "Vitamina C",
+      "Casca"
+    ]
+  },
+  {
+    "palavra": "Limão",
+    "restricoes": [
+      "Azedo",
+      "Verde",
+      "Suco",
+      "Caipirinha",
+      "Fruta"
+    ]
+  },
+  {
+    "palavra": "Melancia",
+    "restricoes": [
+      "Grande",
+      "Verde",
+      "Vermelha",
+      "Sementes",
+      "Água"
+    ]
+  },
+  {
+    "palavra": "Abacaxi",
+    "restricoes": [
+      "Coroa",
+      "Espinho",
+      "Amarelo",
+      "Fruta",
+      "Doce"
+    ]
+  },
+  {
+    "palavra": "Morango",
+    "restricoes": [
+      "Vermelho",
+      "Doce",
+      "Pequeno",
+      "Bolo",
+      "Fruta"
+    ]
+  },
+  {
+    "palavra": "Refrigerante",
+    "restricoes": [
+      "Gás",
+      "Bebida",
+      "Coca-Cola",
+      "Gelado",
+      "Doce"
+    ]
+  },
+  {
+    "palavra": "Cerveja",
+    "restricoes": [
+      "Bar",
+      "Álcool",
+      "Gelada",
+      "Lupulo",
+      "Bebida"
+    ]
+  },
+  {
+    "palavra": "Vinho",
+    "restricoes": [
+      "Uva",
+      "Tinto",
+      "Taça",
+      "Garrafa",
+      "Álcool"
+    ]
+  },
+  {
+    "palavra": "Professor",
+    "restricoes": [
+      "Ensina",
+      "Escola",
+      "Lousa",
+      "Aluno",
+      "Aula"
+    ]
+  },
+  {
+    "palavra": "Policial",
+    "restricoes": [
+      "Segurança",
+      "Arma",
+      "Farda",
+      "Preso",
+      "Carro"
+    ]
+  },
+  {
+    "palavra": "Bombeiro",
+    "restricoes": [
+      "Fogo",
+      "Água",
+      "Caminhão",
+      "Salvar",
+      "Incêndio"
+    ]
+  },
+  {
+    "palavra": "Palhaço",
+    "restricoes": [
+      "Circo",
+      "Graça",
+      "Nariz",
+      "Vermelho",
+      "Rir"
+    ]
+  },
+  {
+    "palavra": "Rei",
+    "restricoes": [
+      "Coroa",
+      "Rainha",
+      "Castelo",
+      "Manda",
+      "Trono"
+    ]
+  },
+  {
+    "palavra": "Bebê",
+    "restricoes": [
+      "Chorar",
+      "Fralda",
+      "Pequeno",
+      "Chupeta",
+      "Nascer"
+    ]
+  },
+  {
+    "palavra": "Vovó",
+    "restricoes": [
+      "Velha",
+      "Mãe",
+      "Neto",
+      "Cabelo Branco",
+      "Idosa"
+    ]
+  },
+  {
+    "palavra": "Amigo",
+    "restricoes": [
+      "Gostar",
+      "Companheiro",
+      "Brincar",
+      "Conversar",
+      "Fiel"
+    ]
+  },
+  {
+    "palavra": "Inimigo",
+    "restricoes": [
+      "Mal",
+      "Odiar",
+      "Contra",
+      "Briga",
+      "Adversário"
+    ]
+  },
+  {
+    "palavra": "Astronauta",
+    "restricoes": [
+      "Espaço",
+      "Lua",
+      "Foguete",
+      "Capacete",
+      "Nasa"
+    ]
+  },
+  {
+    "palavra": "Piloto",
+    "restricoes": [
+      "Avião",
+      "Voar",
+      "Dirigir",
+      "Uniforme",
+      "Comandante"
+    ]
+  },
+  {
+    "palavra": "Cozinheiro",
+    "restricoes": [
+      "Comida",
+      "Restaurante",
+      "Panelas",
+      "Chef",
+      "Cozinha"
+    ]
+  },
+  {
+    "palavra": "Pintor",
+    "restricoes": [
+      "Tinta",
+      "Pincel",
+      "Parede",
+      "Quadro",
+      "Arte"
+    ]
+  },
+  {
+    "palavra": "Jardineiro",
+    "restricoes": [
+      "Planta",
+      "Flor",
+      "Cuidar",
+      "Jardim",
+      "Terra"
+    ]
+  },
+  {
+    "palavra": "Motorista",
+    "restricoes": [
+      "Dirigir",
+      "Carro",
+      "Ônibus",
+      "Passageiro",
+      "Trânsito"
+    ]
+  },
+  {
+    "palavra": "Carteiro",
+    "restricoes": [
+      "Carta",
+      "Correio",
+      "Entrega",
+      "Papel",
+      "Encomenda"
+    ]
+  },
+  {
+    "palavra": "Dentista",
+    "restricoes": [
+      "Dente",
+      "Boca",
+      "Dor",
+      "Motorzinho",
+      "Consultório"
+    ]
+  },
+  {
+    "palavra": "Juiz",
+    "restricoes": [
+      "Tribunal",
+      "Lei",
+      "Martelo",
+      "Advogado",
+      "Julgar"
+    ]
+  },
+  {
+    "palavra": "Ladrão",
+    "restricoes": [
+      "Roubar",
+      "Polícia",
+      "Preso",
+      "Dinheiro",
+      "Fugir"
+    ]
+  },
+  {
+    "palavra": "Mágico",
+    "restricoes": [
+      "Cartola",
+      "Coelho",
+      "Truque",
+      "Baralho",
+      "Ilusão"
+    ]
+  },
+  {
+    "palavra": "Pirata",
+    "restricoes": [
+      "Navio",
+      "Tesouro",
+      "Mar",
+      "Tapa-olho",
+      "Papagaio"
+    ]
+  },
+  {
+    "palavra": "Robô",
+    "restricoes": [
+      "Máquina",
+      "Futuro",
+      "Metal",
+      "Inteligência",
+      "Humano"
+    ]
+  },
+  {
+    "palavra": "Fantasma",
+    "restricoes": [
+      "Medo",
+      "Branco",
+      "Assombrar",
+      "Morto",
+      "Espírito"
+    ]
+  },
+  {
+    "palavra": "Bruxa",
+    "restricoes": [
+      "Vassoura",
+      "Nariz",
+      "Feitiço",
+      "Caldeirão",
+      "Má"
+    ]
+  },
+  {
+    "palavra": "Super-Herói",
+    "restricoes": [
+      "Capa",
+      "Poder",
+      "Voar",
+      "Salvar",
+      "Filme"
+    ]
+  },
+  {
+    "palavra": "Cidade",
+    "restricoes": [
+      "Prédios",
+      "Ruas",
+      "Pessoas",
+      "Carros",
+      "Urbano"
+    ]
+  },
+  {
+    "palavra": "Campo",
+    "restricoes": [
+      "Fazenda",
+      "Verde",
+      "Natureza",
+      "Animais",
+      "Rural"
+    ]
+  },
+  {
+    "palavra": "Shopping",
+    "restricoes": [
+      "Lojas",
+      "Compras",
+      "Praça",
+      "Cinema",
+      "Passear"
+    ]
+  },
+  {
+    "palavra": "Hospital",
+    "restricoes": [
+      "Doente",
+      "Médico",
+      "Remédio",
+      "Enfermeira",
+      "Emergência"
+    ]
+  },
+  {
+    "palavra": "Igreja",
+    "restricoes": [
+      "Rezar",
+      "Deus",
+      "Padre",
+      "Missa",
+      "Cruz"
+    ]
+  },
+  {
+    "palavra": "Restaurante",
+    "restricoes": [
+      "Comer",
+      "Garçom",
+      "Mesa",
+      "Cardápio",
+      "Jantar"
+    ]
+  },
+  {
+    "palavra": "Hotel",
+    "restricoes": [
+      "Dormir",
+      "Quarto",
+      "Viagem",
+      "Hóspede",
+      "Cama"
+    ]
+  },
+  {
+    "palavra": "Piscina",
+    "restricoes": [
+      "Nadar",
+      "Água",
+      "Azul",
+      "Verão",
+      "Mergulhar"
+    ]
+  },
+  {
+    "palavra": "Biblioteca",
+    "restricoes": [
+      "Livros",
+      "Silêncio",
+      "Estudar",
+      "Ler",
+      "Emprestar"
+    ]
+  },
+  {
+    "palavra": "Cozinha",
+    "restricoes": [
+      "Cozinhar",
+      "Comida",
+      "Fogão",
+      "Geladeira",
+      "Casa"
+    ]
+  },
+  {
+    "palavra": "Banheiro",
+    "restricoes": [
+      "Banho",
+      "Chuveiro",
+      "Privada",
+      "Dente",
+      "Necessidades"
+    ]
+  },
+  {
+    "palavra": "Quarto",
+    "restricoes": [
+      "Dormir",
+      "Cama",
+      "Guarda-roupa",
+      "Descansar",
+      "Noite"
+    ]
+  },
+  {
+    "palavra": "Sala",
+    "restricoes": [
+      "Sofá",
+      "TV",
+      "Visita",
+      "Sentar",
+      "Casa"
+    ]
+  },
+  {
+    "palavra": "Jardim",
+    "restricoes": [
+      "Flores",
+      "Grama",
+      "Verde",
+      "Casa",
+      "Plantas"
+    ]
+  },
+  {
+    "palavra": "Zoológico",
+    "restricoes": [
+      "Animais",
+      "Jaula",
+      "Visitar",
+      "Selva",
+      "Bicho"
+    ]
+  },
+  {
+    "palavra": "Bicicleta",
+    "restricoes": [
+      "Pedalar",
+      "Rodas",
+      "Duas",
+      "Equilíbrio",
+      "Ciclismo"
+    ]
+  },
+  {
+    "palavra": "Ônibus",
+    "restricoes": [
+      "Transporte",
+      "Ponto",
+      "Passageiro",
+      "Grande",
+      "Coletivo"
+    ]
+  },
+  {
+    "palavra": "Trem",
+    "restricoes": [
+      "Trilho",
+      "Vagão",
+      "Estação",
+      "Locomotiva",
+      "Ferrovia"
+    ]
+  },
+  {
+    "palavra": "Metrô",
+    "restricoes": [
+      "Subterrâneo",
+      "Rápido",
+      "Trilho",
+      "Estação",
+      "Cidade"
+    ]
+  },
+  {
+    "palavra": "Barco",
+    "restricoes": [
+      "Mar",
+      "Água",
+      "Navegar",
+      "Vela",
+      "Pesca"
+    ]
+  },
+  {
+    "palavra": "Helicóptero",
+    "restricoes": [
+      "Hélice",
+      "Voar",
+      "Céu",
+      "Barulho",
+      "Vertical"
+    ]
+  },
+  {
+    "palavra": "Foguete",
+    "restricoes": [
+      "Espaço",
+      "Lua",
+      "NASA",
+      "Lançamento",
+      "Astronauta"
+    ]
+  },
+  {
+    "palavra": "Táxi",
+    "restricoes": [
+      "Carro",
+      "Passageiro",
+      "Pagar",
+      "Motorista",
+      "Corrida"
+    ]
+  },
+  {
+    "palavra": "Caminhão",
+    "restricoes": [
+      "Carga",
+      "Estrada",
+      "Grande",
+      "Transporte",
+      "Rodovia"
+    ]
+  },
+  {
+    "palavra": "Moto",
+    "restricoes": [
+      "Capacete",
+      "Duas Rodas",
+      "Motor",
+      "Rápido",
+      "Equilíbrio"
+    ]
+  },
+  {
+    "palavra": "Correr",
+    "restricoes": [
+      "Rápido",
+      "Pernas",
+      "Cansar",
+      "Esporte",
+      "Pressa"
+    ]
+  },
+  {
+    "palavra": "Pular",
+    "restricoes": [
+      "Alto",
+      "Chão",
+      "Saltar",
+      "Corda",
+      "Canguru"
+    ]
+  },
+  {
+    "palavra": "Dormir",
+    "restricoes": [
+      "Cama",
+      "Sonho",
+      "Noite",
+      "Olhos",
+      "Descansar"
+    ]
+  },
+  {
+    "palavra": "Comer",
+    "restricoes": [
+      "Boca",
+      "Fome",
+      "Alimento",
+      "Mastigar",
+      "Barriga"
+    ]
+  },
+  {
+    "palavra": "Beber",
+    "restricoes": [
+      "Líquido",
+      "Água",
+      "Sede",
+      "Copo",
+      "Engolir"
+    ]
+  },
+  {
+    "palavra": "Chorar",
+    "restricoes": [
+      "Lágrimas",
+      "Triste",
+      "Olhos",
+      "Bebê",
+      "Soluçar"
+    ]
+  },
+  {
+    "palavra": "Rir",
+    "restricoes": [
+      "Piada",
+      "Graça",
+      "Feliz",
+      "Sorriso",
+      "Haha"
+    ]
+  },
+  {
+    "palavra": "Gritar",
+    "restricoes": [
+      "Alto",
+      "Voz",
+      "Barulho",
+      "Susto",
+      "Falar"
+    ]
+  },
+  {
+    "palavra": "Sussurrar",
+    "restricoes": [
+      "Baixo",
+      "Ouvido",
+      "Segredo",
+      "Silêncio",
+      "Falar"
+    ]
+  },
+  {
+    "palavra": "Cantar",
+    "restricoes": [
+      "Música",
+      "Voz",
+      "Microfone",
+      "Show",
+      "Melodia"
+    ]
+  },
+  {
+    "palavra": "Dançar",
+    "restricoes": [
+      "Música",
+      "Corpo",
+      "Movimento",
+      "Festa",
+      "Ritmo"
+    ]
+  },
+  {
+    "palavra": "Ler",
+    "restricoes": [
+      "Livro",
+      "Olhos",
+      "Palavras",
+      "Páginas",
+      "Entender"
+    ]
+  },
+  {
+    "palavra": "Escrever",
+    "restricoes": [
+      "Caneta",
+      "Lápis",
+      "Papel",
+      "Letra",
+      "Texto"
+    ]
+  },
+  {
+    "palavra": "Desenhar",
+    "restricoes": [
+      "Lápis",
+      "Papel",
+      "Arte",
+      "Colorir",
+      "Imagem"
+    ]
+  },
+  {
+    "palavra": "Pintar",
+    "restricoes": [
+      "Tinta",
+      "Pincel",
+      "Parede",
+      "Quadro",
+      "Cor"
+    ]
+  },
+  {
+    "palavra": "Cozinhar",
+    "restricoes": [
+      "Comida",
+      "Fogão",
+      "Panelas",
+      "Preparar",
+      "Chef"
+    ]
+  },
+  {
+    "palavra": "Limpar",
+    "restricoes": [
+      "Sujeira",
+      "Vassoura",
+      "Água",
+      "Sabão",
+      "Faxina"
+    ]
+  },
+  {
+    "palavra": "Tomar Banho",
+    "restricoes": [
+      "Chuveiro",
+      "Água",
+      "Sabonete",
+      "Limpo",
+      "Toalha"
+    ]
+  },
+  {
+    "palavra": "Trabalhar",
+    "restricoes": [
+      "Dinheiro",
+      "Emprego",
+      "Escritório",
+      "Chefe",
+      "Serviço"
+    ]
+  },
+  {
+    "palavra": "Estudar",
+    "restricoes": [
+      "Escola",
+      "Livro",
+      "Aprender",
+      "Prova",
+      "Aluno"
+    ]
+  },
+  {
+    "palavra": "Viajar",
+    "restricoes": [
+      "Mala",
+      "Avião",
+      "Férias",
+      "Longe",
+      "Passear"
+    ]
+  },
+  {
+    "palavra": "Comprar",
+    "restricoes": [
+      "Dinheiro",
+      "Loja",
+      "Pagar",
+      "Novo",
+      "Gastar"
+    ]
+  },
+  {
+    "palavra": "Vender",
+    "restricoes": [
+      "Dinheiro",
+      "Loja",
+      "Comércio",
+      "Produto",
+      "Oferecer"
+    ]
+  },
+  {
+    "palavra": "Quebrar",
+    "restricoes": [
+      "Consertar",
+      "Cair",
+      "Vidro",
+      "Pedaços",
+      "Estragar"
+    ]
+  },
+  {
+    "palavra": "Consertar",
+    "restricoes": [
+      "Arrumar",
+      "Quebrado",
+      "Ferramenta",
+      "Novo",
+      "Problema"
+    ]
+  },
+  {
+    "palavra": "Mesa",
+    "restricoes": [
+      "Cadeira",
+      "Jantar",
+      "Madeira",
+      "Apoiar",
+      "Móvel"
+    ]
+  },
+  {
+    "palavra": "Sofá",
+    "restricoes": [
+      "Sala",
+      "Sentar",
+      "TV",
+      "Conforto",
+      "Deitar"
+    ]
+  },
+  {
+    "palavra": "Tapete",
+    "restricoes": [
+      "Chão",
+      "Sala",
+      "Pisar",
+      "Tecido",
+      "Decoração"
+    ]
+  },
+  {
+    "palavra": "Cortina",
+    "restricoes": [
+      "Janela",
+      "Pano",
+      "Sol",
+      "Fechar",
+      "Tecido"
+    ]
+  },
+  {
+    "palavra": "Travesseiro",
+    "restricoes": [
+      "Cabeça",
+      "Dormir",
+      "Cama",
+      "Macio",
+      "Fronha"
+    ]
+  },
+  {
+    "palavra": "Cobertor",
+    "restricoes": [
+      "Frio",
+      "Cama",
+      "Cobrir",
+      "Quente",
+      "Inverno"
+    ]
+  },
+  {
+    "palavra": "Toalha",
+    "restricoes": [
+      "Secar",
+      "Banho",
+      "Rosto",
+      "Pano",
+      "Molhado"
+    ]
+  },
+  {
+    "palavra": "Sabonete",
+    "restricoes": [
+      "Banho",
+      "Cheiro",
+      "Lavar",
+      "Espuma",
+      "Mão"
+    ]
+  },
+  {
+    "palavra": "Shampoo",
+    "restricoes": [
+      "Cabelo",
+      "Lavar",
+      "Banho",
+      "Espuma",
+      "Cabeça"
+    ]
+  },
+  {
+    "palavra": "Escova de Dentes",
+    "restricoes": [
+      "Boca",
+      "Pasta",
+      "Limpar",
+      "Higiene",
+      "Cabo"
+    ]
+  },
+  {
+    "palavra": "Pasta de Dente",
+    "restricoes": [
+      "Escova",
+      "Boca",
+      "Hortelã",
+      "Dente",
+      "Tubo"
+    ]
+  },
+  {
+    "palavra": "Papel Higiênico",
+    "restricoes": [
+      "Banheiro",
+      "Rolo",
+      "Limpar",
+      "Branco",
+      "Necessidade"
+    ]
+  },
+  {
+    "palavra": "Vassoura",
+    "restricoes": [
+      "Varrer",
+      "Chão",
+      "Limpar",
+      "Pó",
+      "Cabo"
+    ]
+  },
+  {
+    "palavra": "Rodo",
+    "restricoes": [
+      "Puxar",
+      "Água",
+      "Chão",
+      "Pano",
+      "Limpeza"
+    ]
+  },
+  {
+    "palavra": "Lixo",
+    "restricoes": [
+      "Saco",
+      "Jogar",
+      "Sujeira",
+      "Lixeira",
+      "Fedido"
+    ]
+  },
+  {
+    "palavra": "Geladeira",
+    "restricoes": [
+      "Frio",
+      "Comida",
+      "Cozinha",
+      "Conservar",
+      "Gelo"
+    ]
+  },
+  {
+    "palavra": "Fogão",
+    "restricoes": [
+      "Cozinhar",
+      "Fogo",
+      "Panela",
+      "Forno",
+      "Gás"
+    ]
+  },
+  {
+    "palavra": "Microondas",
+    "restricoes": [
+      "Esquentar",
+      "Rápido",
+      "Pipoca",
+      "Cozinha",
+      "Eletrodoméstico"
+    ]
+  },
+  {
+    "palavra": "Liquidificador",
+    "restricoes": [
+      "Bater",
+      "Suco",
+      "Vitamina",
+      "Hélice",
+      "Cozinha"
+    ]
+  },
+  {
+    "palavra": "Máquina de Lavar",
+    "restricoes": [
+      "Roupa",
+      "Água",
+      "Sabão",
+      "Centrifugar",
+      "Limpar"
+    ]
+  },
+  {
+    "palavra": "Ferro",
+    "restricoes": [
+      "Passar",
+      "Roupa",
+      "Quente",
+      "Tábua",
+      "Desamassar"
+    ]
+  },
+  {
+    "palavra": "Lâmpada",
+    "restricoes": [
+      "Luz",
+      "Teto",
+      "Acender",
+      "Claro",
+      "Vidro"
+    ]
+  },
+  {
+    "palavra": "Tomada",
+    "restricoes": [
+      "Eletricidade",
+      "Plugue",
+      "Parede",
+      "Carregador",
+      "Energia"
+    ]
+  },
+  {
+    "palavra": "Tesoura",
+    "restricoes": [
+      "Cortar",
+      "Papel",
+      "Duas",
+      "Afidada",
+      "Escola"
+    ]
+  },
+  {
+    "palavra": "Cola",
+    "restricoes": [
+      "Grudar",
+      "Papel",
+      "Escola",
+      "Líquida",
+      "Bastão"
+    ]
+  },
+  {
+    "palavra": "Régua",
+    "restricoes": [
+      "Medir",
+      "Reto",
+      "Centímetros",
+      "Escola",
+      "Plástico"
+    ]
+  },
+  {
+    "palavra": "Borracha",
+    "restricoes": [
+      "Apagar",
+      "Lápis",
+      "Errado",
+      "Papel",
+      "Escola"
+    ]
+  },
+  {
+    "palavra": "Lápis",
+    "restricoes": [
+      "Escrever",
+      "Grafite",
+      "Apontar",
+      "Borracha",
+      "Madeira"
+    ]
+  },
+  {
+    "palavra": "Caderno",
+    "restricoes": [
+      "Folhas",
+      "Escrever",
+      "Escola",
+      "Aspirais",
+      "Capa"
+    ]
+  },
+  {
+    "palavra": "Mochila",
+    "restricoes": [
+      "Costas",
+      "Carregar",
+      "Escola",
+      "Livros",
+      "Zíper"
+    ]
+  },
+  {
+    "palavra": "Cabeça",
+    "restricoes": [
+      "Cabelo",
+      "Pensar",
+      "Rosto",
+      "Pescoço",
+      "Cérebro"
+    ]
+  },
+  {
+    "palavra": "Olho",
+    "restricoes": [
+      "Ver",
+      "Enxergar",
+      "Rosto",
+      "Lágrima",
+      "Óculos"
+    ]
+  },
+  {
+    "palavra": "Orelha",
+    "restricoes": [
+      "Ouvir",
+      "Escutar",
+      "Brinco",
+      "Cabeça",
+      "Som"
+    ]
+  },
+  {
+    "palavra": "Língua",
+    "restricoes": [
+      "Gosto",
+      "Boca",
+      "Falar",
+      "Lamber",
+      "Saliva"
+    ]
+  },
+  {
+    "palavra": "Pescoço",
+    "restricoes": [
+      "Cabeça",
+      "Garganta",
+      "Colar",
+      "Corpo",
+      "Girar"
+    ]
+  },
+  {
+    "palavra": "Ombro",
+    "restricoes": [
+      "Braço",
+      "Carregar",
+      "Corpo",
+      "Articulação",
+      "Largo"
+    ]
+  },
+  {
+    "palavra": "Braço",
+    "restricoes": [
+      "Mão",
+      "Cotovelo",
+      "Abraço",
+      "Músculo",
+      "Membro"
+    ]
+  },
+  {
+    "palavra": "Cotovelo",
+    "restricoes": [
+      "Dobrar",
+      "Braço",
+      "Osso",
+      "Ponta",
+      "Articulação"
+    ]
+  },
+  {
+    "palavra": "Barriga",
+    "restricoes": [
+      "Comer",
+      "Umbigo",
+      "Gorda",
+      "Estômago",
+      "Fome"
+    ]
+  },
+  {
+    "palavra": "Costas",
+    "restricoes": [
+      "Atrás",
+      "Coluna",
+      "Dor",
+      "Mochila",
+      "Corpo"
+    ]
+  },
+  {
+    "palavra": "Perna",
+    "restricoes": [
+      "Andar",
+      "Joelho",
+      "Pé",
+      "Coxa",
+      "Membro"
+    ]
+  },
+  {
+    "palavra": "Joelho",
+    "restricoes": [
+      "Dobrar",
+      "Perna",
+      "Cair",
+      "Osso",
+      "Articulação"
+    ]
+  },
+  {
+    "palavra": "Unha",
+    "restricoes": [
+      "Dedo",
+      "Cortar",
+      "Esmalte",
+      "Mão",
+      "Pé"
+    ]
+  },
+  {
+    "palavra": "Sangue",
+    "restricoes": [
+      "Vermelho",
+      "Veia",
+      "Coração",
+      "Corte",
+      "Hospital"
+    ]
+  },
+  {
+    "palavra": "Osso",
+    "restricoes": [
+      "Esqueleto",
+      "Duro",
+      "Quebrar",
+      "Branco",
+      "Cachorro"
+    ]
+  },
+  {
+    "palavra": "Camiseta",
+    "restricoes": [
+      "Roupa",
+      "Vestir",
+      "Manga",
+      "Algodão",
+      "Torso"
+    ]
+  },
+  {
+    "palavra": "Calça",
+    "restricoes": [
+      "Pernas",
+      "Jeans",
+      "Vestir",
+      "Cinto",
+      "Bolso"
+    ]
+  },
+  {
+    "palavra": "Shorts",
+    "restricoes": [
+      "Curto",
+      "Pernas",
+      "Verão",
+      "Calor",
+      "Roupa"
+    ]
+  },
+  {
+    "palavra": "Saia",
+    "restricoes": [
+      "Mulher",
+      "Rodada",
+      "Vestir",
+      "Pernas",
+      "Roupa"
+    ]
+  },
+  {
+    "palavra": "Vestido",
+    "restricoes": [
+      "Mulher",
+      "Peça única",
+      "Festa",
+      "Roupa",
+      "Longo"
+    ]
+  },
+  {
+    "palavra": "Casaco",
+    "restricoes": [
+      "Frio",
+      "Inverno",
+      "Vestir",
+      "Zíper",
+      "Quente"
+    ]
+  },
+  {
+    "palavra": "Meia",
+    "restricoes": [
+      "Pé",
+      "Tênis",
+      "Algodão",
+      "Chulé",
+      "Par"
+    ]
+  },
+  {
+    "palavra": "Cinto",
+    "restricoes": [
+      "Calça",
+      "Segurar",
+      "Fivela",
+      "Couro",
+      "Cintura"
+    ]
+  },
+  {
+    "palavra": "Boné",
+    "restricoes": [
+      "Cabeça",
+      "Sol",
+      "Aba",
+      "Chapéu",
+      "Viseira"
+    ]
+  },
+  {
+    "palavra": "Chinelo",
+    "restricoes": [
+      "Dedo",
+      "Praia",
+      "Pé",
+      "Havaianas",
+      "Calçado"
+    ]
+  },
+  {
+    "palavra": "Vôlei",
+    "restricoes": [
+      "Rede",
+      "Mão",
+      "Praia",
+      "Bola",
+      "Cortada"
+    ]
+  },
+  {
+    "palavra": "Basquete",
+    "restricoes": [
+      "Cesta",
+      "Bola",
+      "Altura",
+      "NBA",
+      "Mão"
+    ]
+  },
+  {
+    "palavra": "Natação",
+    "restricoes": [
+      "Água",
+      "Piscina",
+      "Nadar",
+      "Touca",
+      "Olimpíada"
+    ]
+  },
+  {
+    "palavra": "Tênis",
+    "restricoes": [
+      "Raquete",
+      "Bola",
+      "Rede",
+      "Verde",
+      "Guga"
+    ]
+  },
+  {
+    "palavra": "Boxe",
+    "restricoes": [
+      "Luva",
+      "Soco",
+      "Ringue",
+      "Luta",
+      "Lutar"
+    ]
+  },
+  {
+    "palavra": "Golfe",
+    "restricoes": [
+      "Taco",
+      "Buraco",
+      "Bola",
+      "Grama",
+      "Rico"
+    ]
+  },
+  {
+    "palavra": "Corrida",
+    "restricoes": [
+      "Pista",
+      "Velocidade",
+      "Bolt",
+      "Maratona",
+      "Sapato"
+    ]
+  },
+  {
+    "palavra": "Xadrez",
+    "restricoes": [
+      "Rei",
+      "Rainha",
+      "Tabuleiro",
+      "Peças",
+      "Xeque-Mate"
+    ]
+  },
+  {
+    "palavra": "Baralho",
+    "restricoes": [
+      "Cartas",
+      "Jogo",
+      "Truco",
+      "Rei",
+      "Ás"
+    ]
+  },
+  {
+    "palavra": "Videogame",
+    "restricoes": [
+      "Controle",
+      "Jogar",
+      "Tela",
+      "Console",
+      "Televisão"
+    ]
+  },
+  {
+    "palavra": "Quebra-Cabeça",
+    "restricoes": [
+      "Peças",
+      "Montar",
+      "Encaixar",
+      "Jogo",
+      "Imagem"
+    ]
+  },
+  {
+    "palavra": "Dominó",
+    "restricoes": [
+      "Peças",
+      "Números",
+      "Mesa",
+      "Jogo",
+      "Preto e Branco"
+    ]
+  },
+  {
+    "palavra": "Pipa",
+    "restricoes": [
+      "Linha",
+      "Voar",
+      "Céu",
+      "Vento",
+      "Papel"
+    ]
+  },
+  {
+    "palavra": "Boneca",
+    "restricoes": [
+      "Brinquedo",
+      "Menina",
+      "Barbie",
+      "Brincar",
+      "Casa"
+    ]
+  },
+  {
+    "palavra": "Bola",
+    "restricoes": [
+      "Redonda",
+      "Chutar",
+      "Jogar",
+      "Futebol",
+      "Esporte"
+    ]
+  },
+  {
+    "palavra": "Acampamento",
+    "restricoes": [
+      "Barraca",
+      "Fogueira",
+      "Mato",
+      "Dormir",
+      "Floresta"
+    ]
+  },
+  {
+    "palavra": "Pescaria",
+    "restricoes": [
+      "Peixe",
+      "Vara",
+      "Anzol",
+      "Rio",
+      "Barco"
+    ]
+  },
+  {
+    "palavra": "Carnaval",
+    "restricoes": [
+      "Festa",
+      "Fantasia",
+      "Samba",
+      "Fevereiro",
+      "Rua"
+    ]
+  },
+  {
+    "palavra": "Páscoa",
+    "restricoes": [
+      "Coelho",
+      "Ovo",
+      "Chocolate",
+      "Domingo",
+      "Cristo"
+    ]
+  },
+  {
+    "palavra": "Férias",
+    "restricoes": [
+      "Viajar",
+      "Descanso",
+      "Trabalho",
+      "Escola",
+      "Julho"
+    ]
+  },
+  {
+    "palavra": "Internet",
+    "restricoes": [
+      "Wi-Fi",
+      "Site",
+      "Online",
+      "Computador",
+      "Rede"
+    ]
+  },
+  {
+    "palavra": "Google",
+    "restricoes": [
+      "Pesquisa",
+      "Site",
+      "Buscar",
+      "Internet",
+      "Doodle"
+    ]
+  },
+  {
+    "palavra": "WhatsApp",
+    "restricoes": [
+      "Mensagem",
+      "Celular",
+      "Conversa",
+      "Grupo",
+      "Verde"
+    ]
+  },
+  {
+    "palavra": "Instagram",
+    "restricoes": [
+      "Foto",
+      "Like",
+      "Seguir",
+      "Stories",
+      "Rede Social"
+    ]
+  },
+  {
+    "palavra": "YouTube",
+    "restricoes": [
+      "Vídeo",
+      "Canal",
+      "Assistir",
+      "Like",
+      "Inscrever"
+    ]
+  },
+  {
+    "palavra": "Facebook",
+    "restricoes": [
+      "Rede Social",
+      "Amigos",
+      "Azul",
+      "Mark",
+      "Post"
+    ]
+  },
+  {
+    "palavra": "Bateria",
+    "restricoes": [
+      "Energia",
+      "Carregar",
+      "Celular",
+      "Acabar",
+      "Pilha"
+    ]
+  },
+  {
+    "palavra": "Fone de Ouvido",
+    "restricoes": [
+      "Música",
+      "Ouvir",
+      "Orelha",
+      "Som",
+      "Cabo"
+    ]
+  },
+  {
+    "palavra": "Câmera",
+    "restricoes": [
+      "Foto",
+      "Imagem",
+      "Flash",
+      "Lente",
+      "Filmar"
+    ]
+  },
+  {
+    "palavra": "Rádio",
+    "restricoes": [
+      "Ouvir",
+      "Música",
+      "Estação",
+      "Antena",
+      "Locutor"
+    ]
+  },
+  {
+    "palavra": "Sonho",
+    "restricoes": [
+      "Dormir",
+      "Noite",
+      "Imaginar",
+      "Pesadelo",
+      "Realizar"
+    ]
+  },
+  {
+    "palavra": "Pesadelo",
+    "restricoes": [
+      "Sonho",
+      "Ruim",
+      "Medo",
+      "Acordar",
+      "Noite"
+    ]
+  },
+  {
+    "palavra": "Ideia",
+    "restricoes": [
+      "Pensamento",
+      "Lâmpada",
+      "Cabeça",
+      "Criar",
+      "Mente"
+    ]
+  },
+  {
+    "palavra": "Mentira",
+    "restricoes": [
+      "Verdade",
+      "Falso",
+      "Nariz",
+      "Enganar",
+      "Pinóquio"
+    ]
+  },
+  {
+    "palavra": "Verdade",
+    "restricoes": [
+      "Mentira",
+      "Certo",
+      "Fato",
+      "Sinceridade",
+      "Real"
+    ]
+  },
+  {
+    "palavra": "Segredo",
+    "restricoes": [
+      "Contar",
+      "Esconder",
+      "Boca",
+      "Confidencial",
+      "Ninguém"
+    ]
+  },
+  {
+    "palavra": "Sorte",
+    "restricoes": [
+      "Azar",
+      "Ganhar",
+      "Loteria",
+      "Trevo",
+      "Acaso"
+    ]
+  },
+  {
+    "palavra": "Azar",
+    "restricoes": [
+      "Sorte",
+      "Ruim",
+      "Gato Preto",
+      "Perder",
+      "Urucubaca"
+    ]
+  },
+  {
+    "palavra": "Tempo",
+    "restricoes": [
+      "Relógio",
+      "Hora",
+      "Passar",
+      "Minuto",
+      "Ontem"
+    ]
+  },
+  {
+    "palavra": "Passado",
+    "restricoes": [
+      "Ontem",
+      "Atrás",
+      "Memória",
+      "História",
+      "Já foi"
+    ]
+  },
+  {
+    "palavra": "Futuro",
+    "restricoes": [
+      "Amanhã",
+      "Frente",
+      "Acontecer",
+      "Previsão",
+      "Destino"
+    ]
+  },
+  {
+    "palavra": "Vida",
+    "restricoes": [
+      "Morte",
+      "Nascer",
+      "Viver",
+      "Pessoa",
+      "Existir"
+    ]
+  },
+  {
+    "palavra": "Morte",
+    "restricoes": [
+      "Vida",
+      "Fim",
+      "Caixão",
+      "Cemitério",
+      "Triste"
+    ]
+  },
+  {
+    "palavra": "Paz",
+    "restricoes": [
+      "Guerra",
+      "Branca",
+      "Pomba",
+      "Tranquilo",
+      "Amor"
+    ]
+  },
+  {
+    "palavra": "Guerra",
+    "restricoes": [
+      "Soldado",
+      "Arma",
+      "Paz",
+      "Briga",
+      "Morte"
+    ]
+  },
+  {
+    "palavra": "Frio",
+    "restricoes": [
+      "Gelo",
+      "Inverno",
+      "Casaco",
+      "Neve",
+      "Tremendo"
+    ]
+  },
+  {
+    "palavra": "Calor",
+    "restricoes": [
+      "Sol",
+      "Quente",
+      "Verão",
+      "Suor",
+      "Fogo"
+    ]
+  },
+  {
+    "palavra": "Escuro",
+    "restricoes": [
+      "Luz",
+      "Noite",
+      "Medo",
+      "Preto",
+      "Apagar"
+    ]
+  },
+  {
+    "palavra": "Claro",
+    "restricoes": [
+      "Dia",
+      "Luz",
+      "Sol",
+      "Branco",
+      "Iluminado"
+    ]
+  },
+  {
+    "palavra": "Silêncio",
+    "restricoes": [
+      "Barulho",
+      "Quieto",
+      "Falar",
+      "Ouvir",
+      "Calado"
+    ]
+  },
+  {
+    "palavra": "Barulho",
+    "restricoes": [
+      "Som",
+      "Alto",
+      "Gritar",
+      "Ouvido",
+      "Incomodar"
+    ]
+  },
+  {
+    "palavra": "Rápido",
+    "restricoes": [
+      "Devagar",
+      "Veloz",
+      "Corrida",
+      "Lebre",
+      "Tempo"
+    ]
+  },
+  {
+    "palavra": "Devagar",
+    "restricoes": [
+      "Rápido",
+      "Lento",
+      "Tartaruga",
+      "Demora",
+      "Tempo"
+    ]
+  },
+  {
+    "palavra": "Alto",
+    "restricoes": [
+      "Baixo",
+      "Tamanho",
+      "Altura",
+      "Gigante",
+      "Céu"
+    ]
+  },
+  {
+    "palavra": "Baixo",
+    "restricoes": [
+      "Alto",
+      "Pequeno",
+      "Chão",
+      "Tamanho",
+      "Curto"
+    ]
+  },
+  {
+    "palavra": "Forte",
+    "restricoes": [
+      "Fraco",
+      "Músculo",
+      "Peso",
+      "Hulk",
+      "Academia"
+    ]
+  },
+  {
+    "palavra": "Fraco",
+    "restricoes": [
+      "Forte",
+      "Sem força",
+      "Doente",
+      "Peso",
+      "Mole"
+    ]
+  },
+  {
+    "palavra": "Rico",
+    "restricoes": [
+      "Dinheiro",
+      "Pobre",
+      "Ouro",
+      "Milionário",
+      "Luxo"
+    ]
+  },
+  {
+    "palavra": "Pobre",
+    "restricoes": [
+      "Dinheiro",
+      "Rico",
+      "Falta",
+      "Necessidade",
+      "Humilde"
+    ]
+  },
+  {
+    "palavra": "Novo",
+    "restricoes": [
+      "Velho",
+      "Loja",
+      "Usado",
+      "Recente",
+      "Jovem"
+    ]
+  },
+  {
+    "palavra": "Velho",
+    "restricoes": [
+      "Novo",
+      "Idoso",
+      "Antigo",
+      "Usado",
+      "Tempo"
+    ]
+  },
+  {
+    "palavra": "Bonito",
+    "restricoes": [
+      "Feio",
+      "Beleza",
+      "Lindo",
+      "Gostar",
+      "Aparência"
+    ]
+  },
+  {
+    "palavra": "Feio",
+    "restricoes": [
+      "Bonito",
+      "Horrível",
+      "Desagradável",
+      "Monstro",
+      "Beleza"
+    ]
+  },
+  {
+    "palavra": "Fácil",
+    "restricoes": [
+      "Difícil",
+      "Simples",
+      "Moleza",
+      "Problema",
+      "Resolver"
+    ]
+  },
+  {
+    "palavra": "Difícil",
+    "restricoes": [
+      "Fácil",
+      "Duro",
+      "Complicado",
+      "Problema",
+      "Esforço"
+    ]
+  },
+    {
+    "palavra": "Maratona",
+    "restricoes": [
+      "Corrida",
+      "Difícil",
+      "Longa",
+      "Quilômetros",
+      "Prova"
+    ]
+  },
+  {
+    "palavra": "Futebol",
+    "restricoes": [
+      "Bola",
+      "Gol",
+      "Jogo",
+      "Campo",
+      "Time"
+    ]
+  },
+  {
+    "palavra": "Praia",
+    "restricoes": [
+      "Areia",
+      "Mar",
+      "Sol",
+      "Verão",
+      "Onda"
+    ]
+  },
+  {
     "palavra": "Café",
     "restricoes": [
       "Bebida",

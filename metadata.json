@@ -1,4 +1,5 @@
 {
-  "name": "Não Pode - Jogo de Palavras",
-  "description": "Um jogo interativo de cartas onde você deve descrever uma palavra sem usar as palavras proibidas listadas."
+  "name": "Copy of Não Pode - Jogo de Palavras",
+  "description": "Um jogo interativo de cartas onde você deve descrever uma palavra sem usar as palavras proibidas listadas.",
+  "requestFramePermissions": []
 }
